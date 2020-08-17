@@ -2,8 +2,8 @@
 
 Documentação:
 
-Arquivo ferramentas.md
---> kubectl
---> Stern
---> Kubectx
---> Kubens
+Arquivo ferramentas.md <br>
+--> kubectl <br>
+--> Stern <br>
+--> Kubectx<br>
+--> Kubens<br>
