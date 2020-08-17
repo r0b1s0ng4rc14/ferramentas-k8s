@@ -90,6 +90,7 @@ docker ps
 CONTAINER ID        IMAGE                  COMMAND                  CREATED             STATUS              PORTS                       NAMES
 99604c72d28f        kindest/node:v1.18.2   "/usr/local/bin/entr…"   14 minutes ago      Up 14 minutes       127.0.0.1:33367->6443/tcp   vader-control-plane
 be4368425cf5        kindest/node:v1.18.2   "/usr/local/bin/entr…"   17 minutes ago      Up 17 minutes       127.0.0.1:38985->6443/tcp   kind-control-plane
+```
 
 ```
 kind delete cluster
@@ -97,8 +98,7 @@ kind delete cluster --name vader
 Destruindo os cluster:
 ```
 
-
-# Instação do docker 
+# Docker
 
 Documentação [docker](https://docs.docker.com/engine/install/)
 
